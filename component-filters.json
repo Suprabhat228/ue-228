@@ -16,7 +16,7 @@
       "cards",
       "columns",
       "fragment",
-      "carousel"
+      "carousel-container"
     ]
   },
   {
@@ -41,9 +41,9 @@
     ]
   },
   {
-    "id": "carousel",
+    "id": "carousel-container",
     "components": [
-      "carouselitem"
+      "carousel-item"
     ]
   }
 ]
